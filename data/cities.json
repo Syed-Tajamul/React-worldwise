@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "a120",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-27T05:49:57.221Z",
+      "position": {
+        "lat": "40.0137997964963",
+        "lng": "-0.002903386787669327"
+      },
+      "notes": "n"
+    },
+    {
+      "id": "e51d",
+      "cityName": "Luzein",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-01-29T16:09:23.476Z",
+      "position": {
+        "lat": "46.95067237255762",
+        "lng": "9.829489705540562"
+      },
+      "notes": "great"
+    },
+    {
+      "id": "68c3",
+      "cityName": "Saint-Simon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-29T16:12:03.774Z",
+      "position": {
+        "lat": "44.97071254935585",
+        "lng": "2.469045147292413"
+      },
+      "notes": "ok"
+    },
+    {
+      "id": "1814",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-21T07:21:37.858Z",
+      "position": {
+        "lat": "40.01459963835035",
+        "lng": "-0.01663910871921193"
+      },
+      "notes": "great"
+    },
+    {
+      "id": "2bfd",
+      "cityName": "Jammu",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-21T07:21:54.240Z",
+      "position": {
+        "lat": "32.7162450284531",
+        "lng": "74.86364835161915"
+      },
+      "notes": "nice"
+    }
+  ]
+}
